@@ -1,0 +1,46 @@
+{
+  "name": "flowchart-app",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Flowchart App",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "core-js": "^3.6.5",
+    "quasar": "^2.0.0",
+    "d3": "^5.15.0",
+    "vue": "^2.5.22"
+  },
+  "devDependencies": {
+    "@quasar/app": "^3.0.0",
+    "prettier": "^2.0.5",
+    "@vue/cli-plugin-babel": "^3.1.0",
+    "@vue/cli-plugin-eslint": "^3.1.0",
+    "@vue/cli-service": "^3.1.0",
+    "babel-eslint": "^10.0.1",
+    "cz-conventional-changelog": "^3.1.0",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.5.21"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
